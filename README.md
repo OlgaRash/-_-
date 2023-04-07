@@ -41,3 +41,20 @@
 Создан репозиторий в GitHub и размещен код исследования.
 
 Структура репозитория:
+README.md
+
+X_bp.xlsx
+
+X_nup.xlsx
+
+filename.joblib
+
+minmax_x.joblin
+
+minmax_y.joblin
+
+ВКР.docx
+
+Выпускная квалификационная работа.pptx
+
+вкр.ipynb
